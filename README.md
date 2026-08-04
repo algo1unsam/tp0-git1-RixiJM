@@ -1,4 +1,4 @@
-# Juan Martin Ricci Pierank
+# Juan Martin Ricci Pierani
 ## Pero decime Ricci  
 Soy **Locutor Nacional** recibido de ISER
 Jugué al basket *Semiprofesionalmente*  
@@ -10,9 +10,12 @@ Jugué al basket *Semiprofesionalmente*
 
    *No necesariamente en ese orden*
 
-   
+Estos son los gatos de mi novia y ahora un poquito mios
+**Haku**
+![Logo]()
 
-`Código en línea`
+**Fito**
+![Logo]()
 
 
 *Version 1.0* 
